@@ -1,0 +1,5 @@
+Classifier,Avg_TN,Avg_FP,Avg_FN,Avg_TP,Mean_Accuracy,SD_Accuracy,Mean_Precision,Mean_Recall,Mean_F1
+Quadratic Discriminant Analysis (QDA),6.52,0.68,1.74,1.26,0.7629,0.1295,0.6303,0.439,0.4755
+SVM (RBF Kernel),6.58,0.62,1.88,1.12,0.7553,0.1137,0.5583,0.4037,0.4228
+Gaussian Naïve Bayes,6.42,0.78,1.14,1.86,0.8116,0.1042,0.698,0.6023,0.6044
+Random Forest (100 Trees),6.32,0.88,1.44,1.56,0.7729,0.1075,0.632,0.5233,0.5177
