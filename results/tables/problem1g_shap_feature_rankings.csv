@@ -1,0 +1,6 @@
+,Quadratic Discriminant Analysis (QDA) (Mean |SHAP|),Quadratic Discriminant Analysis (QDA) (Rank),SVM (RBF Kernel) (Mean |SHAP|),SVM (RBF Kernel) (Rank),Gaussian Naïve Bayes (Mean |SHAP|),Gaussian Naïve Bayes (Rank),Random Forest (100 Trees) (Mean |SHAP|),Random Forest (100 Trees) (Rank),Average_Rank,Overall_Rank
+MGST1,0.14076,1,0.01949,5,0.12248,1,0.10779,1,2.0,1
+LGALS14,0.07419,3,0.04805,2,0.09194,2,0.06879,3,2.5,2
+ICAM2,0.03954,5,0.06213,1,0.07387,4,0.07837,2,3.0,3
+ATXN3,0.06548,4,0.04605,4,0.08667,3,0.06439,4,3.75,4
+SSU72,0.07477,2,0.04756,3,0.06143,5,0.05056,5,3.75,4
